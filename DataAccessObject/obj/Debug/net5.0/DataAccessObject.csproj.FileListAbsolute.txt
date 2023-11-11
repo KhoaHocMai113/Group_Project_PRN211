@@ -1,0 +1,15 @@
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\DataAccessObject\bin\Debug\net5.0\DataAccessObject.deps.json
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\DataAccessObject\bin\Debug\net5.0\DataAccessObject.dll
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\DataAccessObject\bin\Debug\net5.0\DataAccessObject.pdb
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\DataAccessObject\bin\Debug\net5.0\BusinessObject.dll
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\DataAccessObject\bin\Debug\net5.0\BusinessObject.pdb
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\DataAccessObject\obj\Debug\net5.0\DataAccessObject.csproj.AssemblyReference.cache
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\DataAccessObject\obj\Debug\net5.0\DataAccessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\DataAccessObject\obj\Debug\net5.0\DataAccessObject.AssemblyInfoInputs.cache
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\DataAccessObject\obj\Debug\net5.0\DataAccessObject.AssemblyInfo.cs
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\DataAccessObject\obj\Debug\net5.0\DataAccessObject.csproj.CoreCompileInputs.cache
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\DataAccessObject\obj\Debug\net5.0\DataAccessObject.csproj.CopyComplete
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\DataAccessObject\obj\Debug\net5.0\DataAccessObject.dll
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\DataAccessObject\obj\Debug\net5.0\refint\DataAccessObject.dll
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\DataAccessObject\obj\Debug\net5.0\DataAccessObject.pdb
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\DataAccessObject\obj\Debug\net5.0\ref\DataAccessObject.dll

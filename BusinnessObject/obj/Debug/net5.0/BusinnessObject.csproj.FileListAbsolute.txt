@@ -1,0 +1,15 @@
+D:\CN\CN5\PRN211-VanVTT\GroupProjectPRN\GroupProject_NET1705_DODUONGDANGKHOA\BusinnessObject\bin\Debug\net5.0\BusinnessObject.deps.json
+D:\CN\CN5\PRN211-VanVTT\GroupProjectPRN\GroupProject_NET1705_DODUONGDANGKHOA\BusinnessObject\bin\Debug\net5.0\BusinnessObject.runtimeconfig.json
+D:\CN\CN5\PRN211-VanVTT\GroupProjectPRN\GroupProject_NET1705_DODUONGDANGKHOA\BusinnessObject\bin\Debug\net5.0\BusinnessObject.runtimeconfig.dev.json
+D:\CN\CN5\PRN211-VanVTT\GroupProjectPRN\GroupProject_NET1705_DODUONGDANGKHOA\BusinnessObject\bin\Debug\net5.0\BusinnessObject.dll
+D:\CN\CN5\PRN211-VanVTT\GroupProjectPRN\GroupProject_NET1705_DODUONGDANGKHOA\BusinnessObject\bin\Debug\net5.0\BusinnessObject.pdb
+D:\CN\CN5\PRN211-VanVTT\GroupProjectPRN\GroupProject_NET1705_DODUONGDANGKHOA\BusinnessObject\obj\Debug\net5.0\BusinnessObject.csproj.AssemblyReference.cache
+D:\CN\CN5\PRN211-VanVTT\GroupProjectPRN\GroupProject_NET1705_DODUONGDANGKHOA\BusinnessObject\obj\Debug\net5.0\BusinnessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\CN\CN5\PRN211-VanVTT\GroupProjectPRN\GroupProject_NET1705_DODUONGDANGKHOA\BusinnessObject\obj\Debug\net5.0\BusinnessObject.AssemblyInfoInputs.cache
+D:\CN\CN5\PRN211-VanVTT\GroupProjectPRN\GroupProject_NET1705_DODUONGDANGKHOA\BusinnessObject\obj\Debug\net5.0\BusinnessObject.AssemblyInfo.cs
+D:\CN\CN5\PRN211-VanVTT\GroupProjectPRN\GroupProject_NET1705_DODUONGDANGKHOA\BusinnessObject\obj\Debug\net5.0\BusinnessObject.csproj.CoreCompileInputs.cache
+D:\CN\CN5\PRN211-VanVTT\GroupProjectPRN\GroupProject_NET1705_DODUONGDANGKHOA\BusinnessObject\obj\Debug\net5.0\BusinnessObject.dll
+D:\CN\CN5\PRN211-VanVTT\GroupProjectPRN\GroupProject_NET1705_DODUONGDANGKHOA\BusinnessObject\obj\Debug\net5.0\ref\BusinnessObject.dll
+D:\CN\CN5\PRN211-VanVTT\GroupProjectPRN\GroupProject_NET1705_DODUONGDANGKHOA\BusinnessObject\obj\Debug\net5.0\BusinnessObject.pdb
+D:\CN\CN5\PRN211-VanVTT\GroupProjectPRN\GroupProject_NET1705_DODUONGDANGKHOA\BusinnessObject\obj\Debug\net5.0\BusinnessObject.genruntimeconfig.cache
+D:\CN\CN5\PRN211-VanVTT\GroupProjectPRN\GroupProject_NET1705_DODUONGDANGKHOA\BusinnessObject\obj\Debug\net5.0\refint\BusinnessObject.dll

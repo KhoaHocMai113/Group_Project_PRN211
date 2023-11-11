@@ -1,0 +1,17 @@
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\Repositories\bin\Debug\net5.0\Repositories.deps.json
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\Repositories\bin\Debug\net5.0\Repositories.dll
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\Repositories\bin\Debug\net5.0\Repositories.pdb
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\Repositories\bin\Debug\net5.0\BusinessObject.dll
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\Repositories\bin\Debug\net5.0\DataAccessObject.dll
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\Repositories\bin\Debug\net5.0\DataAccessObject.pdb
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\Repositories\bin\Debug\net5.0\BusinessObject.pdb
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\Repositories\obj\Debug\net5.0\Repositories.csproj.AssemblyReference.cache
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\Repositories\obj\Debug\net5.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfoInputs.cache
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\Repositories\obj\Debug\net5.0\Repositories.AssemblyInfo.cs
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\Repositories\obj\Debug\net5.0\Repositories.csproj.CoreCompileInputs.cache
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\Repositories\obj\Debug\net5.0\Repositories.csproj.CopyComplete
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\Repositories\obj\Debug\net5.0\Repositories.dll
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\Repositories\obj\Debug\net5.0\refint\Repositories.dll
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\Repositories\obj\Debug\net5.0\Repositories.pdb
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\Repositories\obj\Debug\net5.0\ref\Repositories.dll

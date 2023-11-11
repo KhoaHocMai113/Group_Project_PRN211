@@ -1,0 +1,15 @@
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\BusinnessObject\bin\Debug\net5.0\BusinessObject.deps.json
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\BusinnessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.json
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\BusinnessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.dev.json
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\BusinnessObject\bin\Debug\net5.0\BusinessObject.dll
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\BusinnessObject\bin\Debug\net5.0\BusinessObject.pdb
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\BusinnessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\BusinnessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\BusinnessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\BusinnessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\BusinnessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\BusinnessObject\obj\Debug\net5.0\BusinessObject.dll
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\BusinnessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\BusinnessObject\obj\Debug\net5.0\BusinessObject.pdb
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\BusinnessObject\obj\Debug\net5.0\BusinessObject.genruntimeconfig.cache
+D:\CN\CN5\PRN211-VanVTT\GroupProject-NET1705-PRN211-Group2\GroupProject_NET1705_Group2\BusinnessObject\obj\Debug\net5.0\ref\BusinessObject.dll

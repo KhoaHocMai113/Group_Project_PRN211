@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmDeviceTypeDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDeviceRoomManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDeviceTypeManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmFeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmFeedbackHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMemberManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmStaffManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmFeedbackManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmStaffView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
